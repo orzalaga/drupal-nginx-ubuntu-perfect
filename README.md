@@ -6,4 +6,4 @@ ESTA ES UNA PRUEBA
 
 ---
 
-![](assets/20220412_180731_cdnlogo.com_drupal.svg)
+![](assets/20220412_180731_cdnlogo.com_drupal.svg =250x)
