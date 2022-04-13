@@ -113,6 +113,7 @@ $  nano /var/www/example.com/html/index.html
 ```
 
 Dentro de ella, agregue el siguiente ejemplo de HTML:
+
 ```html
 <html>
     <head>
@@ -171,7 +172,7 @@ Encuentre la directiva `server_names_hash_bucket_size` y borre el símbolo `#` p
 http {
     server_names_hash_bucket_size 64;
 }
-``
+```
 
 Guarde y cierre el archivo cuando termine.
 
