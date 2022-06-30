@@ -191,4 +191,4 @@ $ sudo systemctl restart nginx
 ```
 Con esto, Nginx debería proporcionar su nombre de dominio. Puede probarlo visitando `http://example.com`, donde debería ver algo como esto:
 
-**Activo! Su Servidor esta funcionando correctamente**
+**Welcome to nginx!**
